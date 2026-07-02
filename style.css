@@ -203,6 +203,7 @@ footer{
 .footer-nav-links:hover,
 .footer-text a:hover {
 color: #DFAA5B ;
+
 }
 
 .footer-text a {
@@ -265,8 +266,9 @@ align-items: end;
 
 .news-card:last-child{
     margin-bottom: 107px;
-    
+
 }
+
 
 
 
