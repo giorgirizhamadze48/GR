@@ -261,7 +261,8 @@ align-items: end;
 }
 
 .news-card:nth-child(2).news-card-content p{
-    text-align: right;
+    text-align: right; 
+
 }
 
 .news-card:last-child{
